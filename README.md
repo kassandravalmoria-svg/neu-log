@@ -2,7 +2,7 @@
 
 A modern, web-based visitor logging system designed specifically for the **New Era University Library**. This application streamlines the check-in process for students, faculty, and staff while providing administrators with powerful real-time data analytics.
 
-🔗 **Live Demo:** [https://github.com/kassandravalmoria-svg/neu-log)
+🔗 **Live Demo:** [https://neulibrarylog-9b85a.web.app)
 
 ---
 
